@@ -1,4 +1,15 @@
-# -*- coding: utf-8 -*-
+"""
+Py2DIC_Modified - Hobby modifications to Py2DIC
+
+Original: Py2DIC (https://github.com/Geod-Geom/py2DIC)
+Original authors: Geodesy and Geomatics Division, Sapienza University of Rome
+
+Modifications: Noah235, 2026
+- Cleaner exports
+- GUI improvements
+
+License: Non-commercial/research only (see LICENSE)
+"""# -*- coding: utf-8 -*-
 '''
  py2DIC
  2D Digital Image Correlation software
