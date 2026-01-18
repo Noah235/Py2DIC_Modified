@@ -1,0 +1,79 @@
+py2DIC changelog file. All tracked changes to GUI.py and Main.py will be appended here.
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed/undeformed.jpg and deformed: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_92mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed/undeformed.jpg
+Deformed images: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample/processed\\deformed_92mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/undeformed.jpg and deformed: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_92mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/undeformed.jpg
+Deformed images: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_92mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/undeformed.jpg and deformed: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_92mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/undeformed.jpg
+Deformed images: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_92mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/undeformed.jpg and deformed: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_92mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: D:/Work/NCBS/Repositories/py2DIC/sources/Sample/undeformed.jpg
+Deformed images: ['D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_100mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_40mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_63mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_80mm.jpg', 'D:/Work/NCBS/Repositories/py2DIC/sources/Sample\\deformed_92mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- GUI.py error (button_click) ---
+'NoneType' object is not subscriptable
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed/undeformed.jpg and deformed: ['C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_85mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed/undeformed.jpg
+Deformed images: ['C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_85mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed/undeformed.jpg and deformed: ['C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_85mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed/undeformed.jpg
+Deformed images: ['C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_85mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- GUI.py error (button_click) ---
+'NoneType' object is not subscriptable
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed/undeformed.jpg and deformed: ['C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_85mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed/undeformed.jpg
+Deformed images: ['C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/21st August 2025 (DIC)/processed\\Deformed_85mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
+
+--- Main.py changes (DIC) ---
+DIC now uses reference: C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed/undeformed.jpg and deformed: ['C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_85mm.jpg']
+
+--- GUI.py changes (button_click) ---
+Collected user parameters in GUI.
+Reference image: C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed/undeformed.jpg
+Deformed images: ['C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_39mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_53mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_63mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_75mm.jpg', 'C:/Users/Astha/Desktop/Noah/Rev Setting (PDMS+Fe) Sample 1/processed\\Deformed_85mm.jpg']
+Called DIC_main.DIC with reference and deformed images list.
